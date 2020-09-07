@@ -3,7 +3,7 @@ Repositório do projeto de automação Kabug.
 
 ## Como instalar
 
-*Necessita ter o ruby instalado (2.5 ou superior)
+* Necessita ter o ruby instalado (2.5 ou superior)
 
 ### Instalar a gem bundle
 `
